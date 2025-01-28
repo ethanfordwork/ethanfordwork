@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ethanfordwork
-- 👀 I’m interested in IT Specialist Roles and Cybersecurity. 
-- 🌱 I’m currently learning Artificial Intelligence, Operating Systems, and Network and System Security.
-- 📫 How to reach me: Email {ethan.ford@wallawalla.edu}
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am currently working on a project with Submitty automating manual sysadmin processes using ansible scripts.
+- 👀 I’m currently working as a IT Engineer who's interestd in automating manuel tasks through various automation tools such as Powershell, Python, and ansible. 
+- 🌱 I graduated from WWU with a Bachelor in Science, Computer Science.
+- 📫 How to reach me: Email {ethanfordwork@gmail.com}
+- ⚡ Fun fact: 
 
 <!---
 ethanfordwork/ethanfordwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
